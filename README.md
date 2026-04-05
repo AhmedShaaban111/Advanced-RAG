@@ -79,11 +79,3 @@ Vector Databases · Fine-tuning · LLM Safety
 ```
 
 ---
-
-## 📜 License
-
-This repository contains course materials for educational purposes.
-
----
-
-> 💡 *Feel free to open an issue or reach out if you have questions about any of the implementations!*

@@ -70,11 +70,11 @@ jupyter notebook
 
 From the research log:
 
-- **LLaMA2 + RAG chatbot** — 75% win rate vs. human answers; ~300ms latency on A100
-- **Hybrid retriever** (FAISS + BM25 re-ranking) — better recall vs. dense-only
-- **Chain-of-Thought prompting** — +8% on logic tasks vs. direct prompting
-- **LoRA fine-tuning** (rank=8) — 60% reduction in GPU memory footprint
-- **FlashAttention2** — ~50% reduction in context processing latency
+- **LLaMA2 + RAG chatbot** — RAG-augmented answers compared against direct LLM responses
+- **Hybrid retriever** (FAISS + BM25 re-ranking) — combining dense and sparse retrieval
+- **Chain-of-Thought prompting** — step-by-step reasoning for logic-heavy tasks
+- **LoRA fine-tuning** (rank=8) — parameter-efficient adaptation on limited GPU memory
+- **FlashAttention2** — faster attention for long-context pipelines
 
 ---
 

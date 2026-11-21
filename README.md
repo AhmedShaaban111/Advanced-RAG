@@ -4,6 +4,14 @@ A hands-on collection of Jupyter notebooks implementing state-of-the-art **Retri
 
 ---
 
+## 🏗️ Architecture
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9a17e309-235c-432e-a733-9a160fbe84ba" alt="Advanced RAG architectures diagram" width="600">
+</p>
+
+---
+
 ## 📁 Notebooks Overview
 
 | # | Notebook | Description |

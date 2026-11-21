@@ -1,0 +1,8 @@
+langchain
+langgraph
+openai
+faiss-cpu
+sentence-transformers
+jupyter
+weaviate-client
+rank-bm25

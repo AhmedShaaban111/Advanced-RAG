@@ -39,8 +39,8 @@ A hands-on collection of Jupyter notebooks implementing state-of-the-art **Retri
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/advanced-rag-techniques.git
-cd advanced-rag-techniques
+git clone https://github.com/AhmedShaaban111/Advanced-RAG.git
+cd Advanced-RAG
 
 # Install dependencies
 pip install -r requirements.txt
@@ -77,3 +77,10 @@ RAG Pipelines · Agentic AI · LangGraph · LLM Evaluation
 Multi-Agent Systems · Query Decomposition · Prompt Engineering
 Vector Databases · Fine-tuning · LLM Safety
 ```
+
+
+---
+
+## 📄 License
+
+MIT - see [LICENSE](LICENSE).
